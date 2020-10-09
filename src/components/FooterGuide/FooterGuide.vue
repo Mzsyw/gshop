@@ -48,6 +48,7 @@
         bottom 0
         height 50px
         width 100%
+        background-color: #fff
         .guide-item
             margin-top 4px
             display flex
